@@ -1,0 +1,23 @@
+Podelio sam na 4 celine. Neki SSU dokumenti nemaju odgovarajuce html stranice pa njih i bas ne mozemo da proverimo tako moramo i da napisemo.
+Pokusao sam sto bolje ovo da vam ispovezem i da olaksam pri pregledu. Trebalo bi vrlo lako da se snadjete sad :)
+Koristite sve stranice koje su nam poslali da bi ste lakse razumeli kako je ispovezano.
+
+Marija:
+SSU_Autorizacija_I_Autentifikacija_Korisnika.docx  ->  login.html
+SSU_Registracija_Korisnika.docx  ->  registracija.html
+SSU_Administriranje_Korisnika.docx  ->  (nema html stranice)
+
+Aleksa:
+SSU_Rezervacija_Karata.docx  ->  kupiKartu.html (trebalo bi da je povezano sa kupovina.html)
+SSU_Kupovina_Karata.docx - > interefejs_grupe_dogadjaja.html  ->  interfejs_jednog_dogadjaja.html
+SSU_Pitanja_Korisnika.docx  ->  (nema html stranice)
+
+Luka:
+SSU_Objavljivanje_Dogadjaja.docx ->  organizator.html  -> dogadjaj.html
+SSU_Pretraga_Dogadjaja.docx  ->  index.html
+SSU_Administriranje_Dogadjaja.docx  ->  (nema html stranice)
+
+Vukasin:
+SSU_Ostavljanje_Recenzija.docx  ->  profil.html
+SSU_Administriranje_Recenzija.docx  ->  (nema html stranice)
+SSU_Autorizacija_Gosta.docx -> index.html
