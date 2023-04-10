@@ -2,4 +2,3 @@
 
 09.04.2023  ---  Prosledjen izvestaj o defektima na mejl
 
-proba
